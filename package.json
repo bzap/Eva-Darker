@@ -1,0 +1,40 @@
+{
+    "name": "Eva-Darker",
+    "displayName": "Eva Darker",
+    "description": "A darker version of Eva theme.",
+    "version": "0.0.1",
+    "publisher": "aleknev",
+    "engines": {
+        "vscode": "^1.84.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eva Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eva-Darker.json"
+            },
+            {
+                "label": "Eva DarkDarker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eva-DarkDarker.json"
+            },
+            {
+                "label": "Eva Darkest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eva-Darkest.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "eva theme",
+        "eva dark",
+        "eva",
+        "aleknev"
+    ]
+}
