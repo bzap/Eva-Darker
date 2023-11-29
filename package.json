@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.84.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bzap/Eva-Darker"
+    },
     "categories": [
         "Themes"
     ],
@@ -36,5 +40,8 @@
         "eva dark",
         "eva",
         "aleknev"
-    ]
+    ],
+    "dependencies": {
+        "@vscode/vsce": "^2.22.0"
+    }
 }
