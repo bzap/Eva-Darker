@@ -2,7 +2,7 @@
     "name": "Eva-Darker",
     "displayName": "Eva Darker",
     "description": "A few darker versions of Eva theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "aleknev",
     "engines": {
         "vscode": "^1.84.0"
