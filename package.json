@@ -15,7 +15,7 @@
         "Themes"
     ],
     "license": "MIT",
-    "icon": "most.webp",
+    "icon": "/screenshots/most.webp",
     "contributes": {
         "themes": [
             {
