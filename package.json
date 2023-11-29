@@ -42,8 +42,5 @@
         "eva dark",
         "eva",
         "aleknev"
-    ],
-    "dependencies": {
-        "@vscode/vsce": "^2.22.0"
-    }
+    ]
 }
