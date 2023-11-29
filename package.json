@@ -1,8 +1,8 @@
 {
     "name": "Eva-Darker",
     "displayName": "Eva Darker",
-    "description": "A few darker versions of Eva theme.",
-    "version": "0.0.2",
+    "description": "A few darker variations of Eva theme.",
+    "version": "0.0.3",
     "publisher": "aleknev",
     "engines": {
         "vscode": "^1.84.0"
@@ -15,7 +15,7 @@
         "Themes"
     ],
     "license": "MIT",
-    "icon": "code.png",
+    "icon": "most.webp",
     "contributes": {
         "themes": [
             {
