@@ -1,7 +1,7 @@
 {
     "name": "Eva-Darker",
     "displayName": "Eva Darker",
-    "description": "A darker version of Eva theme.",
+    "description": "A few darker versions of Eva theme.",
     "version": "0.0.1",
     "publisher": "aleknev",
     "engines": {
@@ -19,17 +19,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "Eva Darker",
+                "label": "Eva Darker (Least)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Eva-Darker.json"
             },
             {
-                "label": "Eva DarkDarker",
+                "label": "Eva Darker (Mid)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Eva-DarkDarker.json"
             },
             {
-                "label": "Eva Darkest",
+                "label": "Eva Darkest (Most)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Eva-Darkest.json"
             }
