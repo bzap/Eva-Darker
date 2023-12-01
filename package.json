@@ -29,7 +29,7 @@
                 "path": "./themes/Eva-DarkDarker.json"
             },
             {
-                "label": "Eva Darkest (Most)",
+                "label": "Eva Darker (Most)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Eva-Darkest.json"
             }
